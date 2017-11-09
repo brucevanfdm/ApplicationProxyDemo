@@ -1,0 +1,2 @@
+# ApplicationProxyDemo
+Android开发实现Application多继承方案
